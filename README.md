@@ -72,6 +72,3 @@ Karim Basha
 
 GitHub: [@karimbasha0806](https://github.com/karimbasha0806)
 
- 📄 License
-
-This project is available for educational and learning purposes. Add a specific license if you intend to distribute it for reuse.
